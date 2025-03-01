@@ -21,7 +21,12 @@ fun TaskScreen(
             )
         },
         content = { innerPadding ->
-            Text(modifier = Modifier.padding(innerPadding), text = "Fix later")
+            if (selectedTask != null) {
+                Text(
+                    modifier = Modifier.padding(innerPadding),
+                    text = selectedTask.description
+                )
+            }
         }
     )
 }
