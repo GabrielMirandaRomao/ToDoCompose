@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ToDo Compose</string>
+
+    <string name="close_button">Close Icon</string>
+    <string name="add_button">Add button</string>
+    <string name="search_tasks">Search Tasks</string>
+    <string name="screen_title">Tasks</string>
+    <string name="search_placeholder">Search</string>
+    <string name="sort_tasks">Sort Tasks</string>
+
+    <string name="update_button">Update Icon</string>
+
+    <string name="delete_all_action">Delete all</string>
+    <string name="delete_button">Delete icon</string>
+
+    <string name="sad_face_icon">Sad face Icon</string>
+    <string name="empty_content">No Tasks Found.</string>
+
+    <string name="add_task">Add Task</string>
+    <string name="back_arrow">Back Arrow</string>
+</resources>
